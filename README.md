@@ -1,6 +1,27 @@
 # MyFirstApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+Angular CLI: 8.1.0
+Node: 10.15.0
+OS: win32 x64
+Angular: 8.1.0
+... animations, cli, common, compiler, compiler-cli, core, forms
+... language-service, platform-browser, platform-browser-dynamic
+... router
+
+Package                           Version
+-----------------------------------------------------------
+@angular-devkit/architect         0.800.6
+@angular-devkit/build-angular     0.800.6
+@angular-devkit/build-optimizer   0.800.6
+@angular-devkit/build-webpack     0.800.6
+@angular-devkit/core              8.0.6
+@angular-devkit/schematics        8.1.0
+@ngtools/webpack                  8.0.6
+@schematics/angular               8.1.0
+@schematics/update                0.801.0
+rxjs                              6.5.2
+typescript                        3.4.2
+webpack                           4.30.0
 
 ## Development server
 
